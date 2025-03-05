@@ -5,7 +5,7 @@
 I'm a passionate Full Stack Developer with experience in building dynamic and responsive web applications.
 
 - 🌐 I code in **JavaScript**, **TypeScript**, **React**, **Angular**, and **NodeJS**.
-- 🚀 Currently diving into **Python** and **Next.js** to expand my skillset.
+- 🚀 Currently diving into **Next.js** and **GraphQL** to expand my skillset.
 - 💼 I enjoy tackling challenging problems and continuously learning new technologies to stay updated in this fast-paced industry.
 
    <p align="left">
